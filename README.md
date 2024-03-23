@@ -5,7 +5,7 @@ I'm Emma Luk, a Data Engineer based in Guildford. Welcome to my GitHub profile! 
 - 🌱 I’m currently learning advanced techniques in data processing and optimisation.
 - 👯 I’m looking to collaborate on projects related to data engineering, machine learning, and cloud computing.
 - 💬 Ask me about anything related to data engineering, Python programming, or cloud technologies.
-- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emma-luk) or check out my [portfolio](https://emma-luk.github.io) for more information.
+- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emma-luk){:target="_blank"} or check out my [portfolio](https://emma-luk.github.io){:target="_blank"} for more information.
 
 
 <!--
